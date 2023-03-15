@@ -75,7 +75,7 @@ public class caps : MonoBehaviour
 ## Output:
 ![image](./inter.png)
 
-[[[https://user-images.githubusercontent.com/93427237/225361956-3992ae57-67ad-4120-ae83-f8ee104f7b04.mp4](https://github.com/NITHISHKUMAR-P/Rotating-the-Gaming-Object/blob/main/my%20first%20-%20scene1%20-%20PC%2C%20Mac%20%26%20Linux%20Standalone%20-%20Unity%202020.3.45f1%20Personal_%20_DX11_%202023-03-16%2002-23-15%20(online-video-cutter.com).mp4)](https://github.com/NITHISHKUMAR-P/Rotating-the-Gaming-Object/blob/main/my%20first%20-%20scene1%20-%20PC%2C%20Mac%20%26%20Linux%20Standalone%20-%20Unity%202020.3.45f1%20Personal_%20_DX11_%202023-03-16%2002-23-15%20(online-video-cutter.com).mp4)](https://github.com/NITHISHKUMAR-P/Rotating-the-Gaming-Object/blob/fc11710144341ec8b79e3611046449f271c3fe52/my%20first%20-%20scene1%20-%20PC,%20Mac%20&%20Linux%20Standalone%20-%20Unity%202020.3.45f1%20Personal_%20_DX11_%202023-03-16%2002-23-15%20(online-video-cutter.com).mp4)
+https://user-images.githubusercontent.com/93427017/225445370-d28d41da-6c5a-4fa1-a7c7-dea8d6587a7c.mp4
 
 
 ## Result:
