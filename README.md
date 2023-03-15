@@ -73,7 +73,7 @@ public class caps : MonoBehaviour
 }
 ```
 ## Output:
-![image]()
+![image](./inter.png)
 
 https://user-images.githubusercontent.com/93427237/225361956-3992ae57-67ad-4120-ae83-f8ee104f7b04.mp4
 
